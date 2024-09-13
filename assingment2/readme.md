@@ -1,4 +1,4 @@
-variables-
+<!-- variables-
 naming convention
 variables are case sensitive,variables can be singular character multiple character or alpha character
 camel casing=>best practice
@@ -15,7 +15,7 @@ variables cannot be redeclared but can be reasingned
 
 const
 variables cannot be redeclared and reassined
-
+ -->
 
 # What are the variables naming conventions in JavaScript?
 ## Variable names must start with a letter, an underscore ( _ ) or a dollar sign ( $ ). Variable names cannot contain spaces. Variables cannot be the same as reserved keywords such as if or const . By convention, JavaScript variable names are written in camelCase.
